@@ -1,0 +1,15 @@
+Metric,Value
+Total utterances,2300
+Base Model WER (mean),0.0571
+Fine-tuned Model WER (mean),0.7158
+Absolute WER improvement,-0.6587
+Relative WER improvement,-1152.75%
+Paired t-test p-value,0.0000
+Statistically significant (p<0.05),YES
+,
+Base Model - Total Substitutions,2777
+Base Model - Total Deletions,1821
+Base Model - Total Insertions,5381
+Fine-tuned - Total Substitutions,61605
+Fine-tuned - Total Deletions,73999
+Fine-tuned - Total Insertions,22380

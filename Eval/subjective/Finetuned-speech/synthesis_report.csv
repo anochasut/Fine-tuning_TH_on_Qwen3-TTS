@@ -1,0 +1,12 @@
+﻿filename,status,output_path,duration_sec,text_used,error
+35886827_1_3.wav,success,../output_wav/35886827_1_3.wav,3.84,ยายนั่งกินลำไย น้ำลายไหลย้อย,
+35886827_3_1.wav,success,../output_wav/35886827_3_1.wav,2.24,ระนอง ระยอง ยะลา,
+35886827_3_3.wav,success,../output_wav/35886827_3_3.wav,2.56,ทดสอบการสร้าง เสียงพูดภาษาไทย,
+35886827_3_7.wav,success,../output_wav/35886827_3_7.wav,0.96,หมู หมึก กุ้ง,
+35886827_3_12_1.wav,success,../output_wav/35886827_3_12_1.wav,4.16,ภาพนกกรกนกบนกรงนกตรงถนนสนธยา,
+35886827_3_15.wav,success,../output_wav/35886827_3_15.wav,3.68,ยายมีขายหอยยายมอยขายหมี,
+35886827_3_12_2.wav,success,../output_wav/35886827_3_12_2.wav,3.36,ภาพนกกรกนกบนกรงนกตรงถนนสนธยา,
+manual_01.wav,success,../output_wav/manual_01.wav,1.68,สวัสดี วันตรุษจีน,
+manual_02.wav,success,../output_wav/manual_02.wav,1.76,ขอทราบอาการเบื้องต้น,
+tsync2_1943_6063.wav,success,../output_wav/tsync2_1943_6063.wav,2.8,พนักงานบริษัทนำของกลางมอบต่อพนักงานสอบสวน,
+tsync2_8696_45252_1.wav,success,../output_wav/tsync2_8696_45252_1.wav,3.36,ไอ้จ๋อมากินกล้วยร้องเพลงโฟล์กซอง,

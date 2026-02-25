@@ -1,0 +1,11 @@
+Language,Consonants,Vowels,Tones,Syllable_Structure,Tone_Class_Interaction,Weighted_Score,Source
+Mandarin,0.339,0.115,0.64,0.85,0.0,0.427,PHOIBLE
+English,0.383,0.236,0.0,0.4,0.0,0.203,PHOIBLE
+Japanese,0.375,0.433,0.0,0.65,0.0,0.278,PHOIBLE
+Korean,0.431,0.423,0.0,0.55,0.0,0.275,PHOIBLE
+German,0.37,0.279,0.0,0.4,0.0,0.208,PHOIBLE
+French,0.37,0.205,0.0,0.55,0.0,0.216,PHOIBLE
+Spanish,0.314,0.154,0.0,0.7,0.0,0.214,PHOIBLE
+Italian,0.25,0.173,0.0,0.7,0.0,0.202,PHOIBLE
+Portuguese,0.333,0.1,0.0,0.55,0.0,0.186,PHOIBLE
+Russian,0.222,0.258,0.0,0.4,0.0,0.167,PHOIBLE

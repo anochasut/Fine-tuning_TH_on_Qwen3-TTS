@@ -1,0 +1,15 @@
+Metric,Value
+Total utterances,2550
+Fine-tuned Model WER (mean),0.9667
+Fine-tuned Model with word boundary WER (mean),1.0263
+Absolute WER improvement,-0.0596
+Relative WER improvement,-6.16%
+Paired t-test p-value,0.6099
+Statistically significant (p<0.05),NO
+,
+Fine-tuned - Total Substitutions,28432
+Fine-tuned - Total Deletions,6732
+Fine-tuned - Total Insertions,12435
+Fine-tuned with word boundary - Total Substitutions,27957
+Fine-tuned with word boundary - Total Deletions,7189
+Fine-tuned with word boundary - Total Insertions,11272
